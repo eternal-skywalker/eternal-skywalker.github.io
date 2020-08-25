@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eternal Skywalker</title>
+    <link>https://eternal-skywalker.github.io/posts/</link>
+    <description>Recent content in Posts on Eternal Skywalker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Terrel Shumway</copyright>
+    <lastBuildDate>Mon, 24 Aug 2020 17:45:24 -0600</lastBuildDate>
+    
+	<atom:link href="https://eternal-skywalker.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://eternal-skywalker.github.io/posts/hello/</link>
+      <pubDate>Mon, 24 Aug 2020 17:45:24 -0600</pubDate>
+      
+      <guid>https://eternal-skywalker.github.io/posts/hello/</guid>
+      <description>This is a test, learning to deploy a hugo site to GitHub Pages. I am following the instructions here and here.</description>
+    </item>
+    
+  </channel>
+</rss>
