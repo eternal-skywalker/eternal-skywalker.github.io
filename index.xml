@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Hello</title>
-      <link>https://eternal-skywalker.github.io/posts/hello/</link>
+      <title>Master Plan: Part 1</title>
+      <link>https://eternal-skywalker.github.io/posts/master-plan/</link>
       <pubDate>Mon, 24 Aug 2020 17:45:24 -0600</pubDate>
       
-      <guid>https://eternal-skywalker.github.io/posts/hello/</guid>
-      <description>This is a test, learning to deploy a hugo site to GitHub Pages. I am following the instructions here and here.</description>
+      <guid>https://eternal-skywalker.github.io/posts/master-plan/</guid>
+      <description>This blog documents progress of my medium-term master plan:
+ Learn to program robots: Self-Drivng Car Engineer and Robotics Software Engineer Learn basic electronics: Electronic Engineering Technology Get a better job, assembling electronics. Learn to operate and maintain industrial robots: Controls Engineering Technology Get a better job, maintaining industrial robots. Gain experience. Move to Texas. Get a job with Tesla in Austin or SpaceX in Boca Chica. Gain experience. Join a company that is building robots to maintain satellites in orbit.</description>
     </item>
     
   </channel>
